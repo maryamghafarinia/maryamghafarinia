@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @maryamghafarinia https://maryamghafarinia.github.io/
+- 👋 Hi, I’m @maryamghafarinia
 - 👀 I’m interested in Javascript world
 - 🌱 I’m currently learning NextJS and new test frameworks
 - 📫 How to reach me > maryamqafari70@gmail.com
