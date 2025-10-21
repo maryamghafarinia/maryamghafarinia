@@ -2,7 +2,6 @@
 👋 Hi, I'm **Maryam Ghafarinia**  
 💼 **Senior Software Engineer** | Full-Stack Development  
 📍 Based in **Berlin, Germany**  
-🌍 Open to **remote opportunities**
 
 ## 🚀 About Me
 
