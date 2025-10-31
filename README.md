@@ -40,7 +40,7 @@ With over **6 years of professional experience**, I'm a Senior Software Engineer
 
 - 📧 **Email:** maryamghafarinia92@gmail.com
 - 📱 **Phone:** +49-1794260215
-- 💼 **LinkedIn:** [maryamghafarinia-97b699111](https://linkedin.com/in/maryamghafarinia-97b699111)
+- 💼 **LinkedIn:** [maryamghafarinia](https://linkedin.com/in/maryamghafarinia)
 - 🌐 **Website:** [maryamghafarinia.github.io](https://maryamghafarinia.github.io)
 
 ## 🎨 Portfolio
